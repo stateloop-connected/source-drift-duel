@@ -1,0 +1,14 @@
+{
+  "build_script": "vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "jeiel85/drift-duel",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "46db56a09d25a0e934f7a4eb30e608453fd10f2e"
+}
